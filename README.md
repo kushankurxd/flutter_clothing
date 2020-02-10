@@ -6,12 +6,10 @@ A new Flutter E-Commerce Clothing UI/UX design.
 
 #### Screenshots
 
-![Screenshot_20200210-143150](https://user-images.githubusercontent.com/37204706/74136035-66bd6800-4c13-11ea-93f8-eb071ae63242.jpg)
 ![Screenshot_20200210-143205](https://user-images.githubusercontent.com/37204706/74136045-69b85880-4c13-11ea-9845-aa84ee71b235.jpg)
-![Screenshot_20200210-143221](https://user-images.githubusercontent.com/37204706/74136047-6ae98580-4c13-11ea-9ec7-98e09ecabedb.jpg)
+![Screenshot_20200210-144311](https://user-images.githubusercontent.com/37204706/74136533-35916780-4c14-11ea-8268-576332d02176.jpg)
 ![Screenshot_20200210-143233](https://user-images.githubusercontent.com/37204706/74136048-6b821c00-4c13-11ea-9072-1eda24395a55.jpg)
 ![Screenshot_20200210-144259](https://user-images.githubusercontent.com/37204706/74136531-33c7a400-4c14-11ea-8320-a94499a68d47.jpg)
-![Screenshot_20200210-144311](https://user-images.githubusercontent.com/37204706/74136533-35916780-4c14-11ea-8268-576332d02176.jpg)
 
 
 ## Getting Started

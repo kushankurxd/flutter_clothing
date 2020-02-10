@@ -11,6 +11,11 @@ A new Flutter E-Commerce Clothing UI/UX design.
 ![Screenshot_20200210-144311](https://user-images.githubusercontent.com/37204706/74136533-35916780-4c14-11ea-8268-576332d02176.jpg)
 ![Screenshot_20200210-144259](https://user-images.githubusercontent.com/37204706/74136531-33c7a400-4c14-11ea-8320-a94499a68d47.jpg)
 
+#### GIF
+
+![ezgif com-crop](https://user-images.githubusercontent.com/37204706/74139272-1517dc00-4c19-11ea-9e35-84482e454f15.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
